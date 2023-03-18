@@ -1,0 +1,8 @@
+*
+!out
+out/*
+!/.gitignore
+!src
+!src/*.cpp
+!src/*.hpp
+!.clang-format
